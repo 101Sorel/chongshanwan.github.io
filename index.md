@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<!-- <img src="chongshanwan.jpg" class="floatpic" width="600" height="480"> -->
+<img src="chongshanwan.jpg" class="floatpic" width="600" height="480">
 
 Here is **Chongshan Wan (万重山)**.
 
