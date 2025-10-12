@@ -9,7 +9,7 @@ Jan. 2024 - Jun. 2025<br>
 Researcher | Advisor: Professor Peng Yue
 - Developed a multi-agent geospatial data Q&A System, which integrates a geospatial data knowledge graph with LLMs.
 - Participated in the development of a geographic annotated literature corpus, the construction of a geospatial knowledge graph, and the deployment of LLM.
-- Large Language Models, Geographic Knowledge Graph. 
+- Large Language Models, Geospatial Knowledge Graph. 
 
 ---
 
