@@ -8,7 +8,7 @@ layout: page
 
 Here is **Chongshan Wan (万重山)**.
 
-I am a final-year graduate student majoring in Cartography and Geographic Information Systems at the School of Remote Sensing and Information Engineering, Wuhan University. I'm advised by [Prof. Peng Yue](http://jszy.whu.edu.cn/pyue). 
+I hold a M.E. degree in Cartography and Geographic Information Systems from the School of Remote Sensing and Information Engineering, Wuhan University, where I completed my graduate studies under the advisement of [Prof. Peng Yue](http://jszy.whu.edu.cn/pyue). 
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *chongshanwan[at]whu[dot]edu[dot]cn*
 
@@ -28,9 +28,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Geo-data Analytics
-- Intelligent transportation
-- Mobility Analytics
+- Trajectory Mining
+- Intelligent Transportation
+- LLMs
 - Graph Deep Learning
 - GeoAI
 
