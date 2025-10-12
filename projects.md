@@ -3,6 +3,15 @@ layout: page
 permalink: /projects/index.html
 title: Projects
 ---
+### Geospatial Q&A System Based on Knowledge Graph and LLMs<br>
+(University-Industry Collaboration Project)<br>
+Jan. 2024 - Jun. 2025<br>
+Researcher | Advisor: Professor Peng Yue
+- Developed a multi-agent geospatial data Q&A System, which integrates a geospatial data knowledge graph with LLMs.
+- Participated in the development of a geographic annotated literature corpus, the construction of a geospatial knowledge graph, and the deployment of LLM.
+- Large Language Models, Geographic Knowledge Graph. 
+
+---
 
 ### Road Topology Information Extraction from Crowdsourced Trajectory Data<br>
 (University-Industry Collaboration Project)<br>
